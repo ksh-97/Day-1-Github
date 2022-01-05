@@ -33,3 +33,12 @@ First we learned how to collaborate and share projects with each other. I commit
   <li>Link Git and Github</li>
 </ol>
 
+### Steps for sharing: 
+<ol>
+  <li>Open the project and go to settings.</li>
+  <li>Go to manage access > Add collaborator</li>
+  <li>Type the username of concerned person > send invite </li>
+  <li>Then copy the invite link and sent it to user, alternatively an invite email can be sent to the user. </li>
+  <li>Once the user has accepted the invititation, collaboration can be done.</li>
+</ol>
+
